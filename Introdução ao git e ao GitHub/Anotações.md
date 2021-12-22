@@ -24,4 +24,6 @@ A TREE armazena e monta uma estrutura de arquivos.
 
 **CD ..** - Para sair da pasta
 
-**Git commit -m** - Para commitar os arquivos
+**Git commit -m** - Para commitar os arquivos + incluir comentários
+
+**Git push origin (main ou master)** - Para enviar para o GitHub
